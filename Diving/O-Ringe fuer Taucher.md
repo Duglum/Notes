@@ -22,11 +22,11 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
 ## Werkzeug
 O-Ring Werkzeug sollte aus Bronze, Messing oder anderen weichen Metallen sein um die 1./2. Stufen und Schlauchanschlüsse nicht zu beschädigen.
 * Für Daheim
-  * [XS Scuba O-Ring Pick Set TL111](https://www.xsscuba.com/tools/o-ring-pick-set) oder auch Procean `PVT-0000400-000`
+  * [XS Scuba O-Ring Pick Set TL111](https://www.xsscuba.com/tools/o-ring-pick-set)
   * [Brass O-Ring Pick Set](https://scuba-clinic-tools.com/collections/general-scuba/products/brass-o-ring-pick-set-2-pcs)
 * Für Reisen
-  * [Multitool mit Pick](<https://www.divesupport.de/thumbnail/e5/69/82/1627845505/314_1_1280x1280.jpg>) (z.B. Procean `PAC-0000209-009` oder `PAC-0000202-000`)
-  * [Schlüsselanhänger mit Pick](<https://m.media-amazon.com/images/I/51IPXJGJuXL._AC_SL1024_.jpg>) (z.B. Procean `PAC-0000050-201`)
+  * [Multitool mit Pick](<https://www.divesupport.de/thumbnail/e5/69/82/1627845505/314_1_1280x1280.jpg>)
+  * [Schlüsselanhänger mit Pick](<https://m.media-amazon.com/images/I/51IPXJGJuXL._AC_SL1024_.jpg>)
 
 ## Fett
 Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe brauchen in der Regel keine besondere Schmierung, es reicht die O-Ringe mit einer sehr kleinen Menge zu benetzen.
