@@ -55,7 +55,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
   * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-06**)
   * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
-  * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu itself then got taken over by Löwenbräu in 1921.
+  * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu then got taken over by Löwenbräu in 1921.
 * [Löwenbräu](https://loewenbraeu.de) _(owned by global corporation AB InBev)_
   * [Löwenbräukeller](https://www.openstreetmap.org/way/98064749) should be their main location, never went there though.
 * [Paulaner](https://www.paulaner.de) _(owned by the global corporations Schörghuber Group and Heineken)_
