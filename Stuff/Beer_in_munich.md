@@ -21,7 +21,7 @@ If you are local and want to improve this list by adding or correcting something
 * [BrewsLi](https://www.openstreetmap.org/node/1357982129) ([Website](https://brewsli.de/))
   * Microbrewery and Taproom. Snack food.
 * [Frisches Bier](https://www.openstreetmap.org/node/5640320024) ([Website](https://www.frischesbier-muenchen.de/))
-  * belongs to Tilmans Brewery, but they also carry other beers
+  * belongs to Tilmans Brewery, but they also carry other beers. Snack food.
 * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) ([Website](https://www.giesinger-braeu.de/))
   * see below in the munich breweries section
 * [Higgins Ale Works](https://www.openstreetmap.org/node/9844332568) ([Website](https://higginsaleworks.com/))
