@@ -53,7 +53,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Stehausschank Sendling](https://www.openstreetmap.org/node/2015822730)
   * [Stehausschank Westend](https://www.openstreetmap.org/node/337484404)
 * [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
-  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-04**)
+  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-06**)
   * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
   * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu itself then got taken over by Löwenbräu in 1921.
 * [Löwenbräu](https://loewenbraeu.de) _(owned by global corporation AB InBev)_
@@ -99,4 +99,4 @@ These entries might get moved to the list proper or removed once verified.
   * Micro-Microbrewery and Taproom.
   * Only open on thursdays and fridays between 17:00 and 21:00.
 
-This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-04-04
+This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-06
