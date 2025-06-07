@@ -46,6 +46,12 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Hofbräuhaus](https://www.openstreetmap.org/node/11829267544) (extremely touristy, but good food and decent beer nonetheless)
 * [Giesinger](https://www.giesinger-braeu.de/) _(privately owned)_
   * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) (Good bavarian food, classical beer styles and more modern "craft" styles.)
+  * [Stehausschank Viktualienmarkt](https://www.openstreetmap.org/node/1016358208)
+  * [Stehausschank Maxvorstadt](https://www.openstreetmap.org/node/1813638199)
+  * [Stehausschank Universität](https://www.openstreetmap.org/node/329088197)
+  * [Stehausschank Sendlinger Tor](https://www.openstreetmap.org/node/700042712)
+  * [Stehausschank Sendling](https://www.openstreetmap.org/node/2015822730)
+  * [Stehausschank Westend](https://www.openstreetmap.org/node/337484404)
 * [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
   * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-04**)
   * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
