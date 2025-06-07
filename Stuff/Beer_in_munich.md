@@ -1,0 +1,93 @@
+Reddit Beer Munich copy&paste list
+===
+
+I created this list to have something i can easily copy&paste since people constantly ask about beer in this sub.
+I left out beer gardens on purpose, there are just too many of them, almost all are decent and none of them offer anything special in terms of beer.
+
+If you are local and want to improve this list by adding or correcting something please just answer to this post.
+
+## TOC
+ 1. Independent Craft Restaurants, Beer Halls and Bars
+ 2. Traditional Munich Breweries and their Restaurants/Beer Halls
+ 3. Other places or breweries worth visiting/drinking
+ 4. Dealers/Beverage Shops
+ 5. Reader's additions
+
+## Independent (Craft) Restaurants, Taprooms, Beer Halls and Bars
+* [Tap House](https://www.openstreetmap.org/node/1836234731) ([Website](https://tap-house-munich.de/de/))
+  * 40 taps, has everything from local brews through belgian fruit lambics to your typical West Coast IPA and Pastry Stout. Great owner and waiters. Great food. My favourite.
+* [BrewsLi](https://www.openstreetmap.org/node/1357982129) ([Website](https://brewsli.de/))
+  * Microbrewery and Taproom. Snack food.
+* [Frisches Bier](https://www.openstreetmap.org/node/5640320024) ([Website](https://www.frischesbier-muenchen.de/))
+  * belongs to Tilmans Brewery, but they also carry other beers
+* [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) ([Website](https://www.giesinger-braeu.de/))
+  * see below in the munich breweries section
+* [Higgins Ale Works](https://www.openstreetmap.org/node/9844332568) ([Website](https://higginsaleworks.com/))
+  * Micro-Microbrewery and Taproom. Very nice owners. No food.
+* [HopDog](https://www.openstreetmap.org/node/7589946337) ([Website](https://hopdog.eu/))
+  * Specializes in frankonian beer, also usually has some craft styles on tap. Hot Dogs.
+
+## (Bigger or 'real') Munich Breweries and their Restaurants/Beer Halls
+_"Münchner Bier"_ is a protected term under [EU PGI law](https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union), and two of the criterias are that the brewery has to be within the city limits and that they get their water from a deep well within the city limits. The breweries in this list are the only ones fulfilling all criterias.
+
+Giesinger is the outlier here, as it's the youngest and smallest by far. It's not part of the big six and i wouldn't classify it as macro. But it belongs in this list since it is a 'real' Munich brewery with it's own deep well by now. There will soon be another new munich brewery: Münchner Kindl.
+
+Beer from the big six can be had everywhere in town, most restaurants and pubs have exclusive deals with one of them.
+
+* [Augustiner](https://www.augustiner-braeu.de) _(privately/foundation owned)_
+  * [Augustiner Bräustuben](https://www.openstreetmap.org/node/82772298) is the one next to the brewery. Nice rooftop garden.
+  * Basically everywhere, probably 15+ Augustiner locations in town
+  * [Museumsstüberl im Bier- und Oktoberfestmuseum](https://www.openstreetmap.org/node/656253061) ([Website](https://www.museumsstueberl.com/)) is also owned by the same foundation and worth a visit
+* [Hacker-Pschorr](https://www.hacker-pschorr.de) _(owned by the global corporations Schörghuber Group and Heineken)_
+  * This brewery doesn't physically exist anymore, just the brand name remains. The beer is brewed at Paulaner.
+  * [Hackerhaus](https://www.openstreetmap.org/node/700957664)
+  * [Der Pschorr](https://www.openstreetmap.org/node/358492740)
+* [Hofbräu](https://www.hofbraeu-muenchen.de) _(owned by the Free State of Bavaria)_
+  * [Hofbräuhaus](https://www.openstreetmap.org/node/11829267544) (extremely touristy, but good food and decent beer nonetheless)
+* [Giesinger](https://www.giesinger-braeu.de/) _(privately owned)_
+  * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) (Good bavarian food, classical beer styles and more modern "craft" styles.)
+* [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
+  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-04**)
+  * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
+  * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu itself then got taken over by Löwenbräu in 1921.
+* [Löwenbräu](https://loewenbraeu.de) _(owned by global corporation AB InBev)_
+  * [Löwenbräukeller](https://www.openstreetmap.org/way/98064749) should be their main location, never went there though.
+* [Paulaner](https://www.paulaner.de) _(owned by the global corporations Schörghuber Group and Heineken)_
+  * [Paulaner Bräuhaus](https://www.openstreetmap.org/node/307528347)
+  * [Paulaner am Nockherberg](https://www.openstreetmap.org/node/262128245). This is where the Starkbierfest happens during catholic lent.
+* [Spaten/Franziskaner](https://spatenbraeu.de) _(owned by global corporation AB InBev)_
+  * [Spatenhaus an der Oper](https://www.openstreetmap.org/node/863560075)
+
+## Other places or breweries worth visiting/drinking
+* [Bierkiste](https://www.openstreetmap.org/node/8467824847)
+  * technically a dealer/shop, but they have some seats available. Very nice selection.
+* [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
+  * As the name suggests it's a Kiosk, but they have an impressive selection of international beers.
+  * While technically purely a dealer it's in a perfect spot to start the evening and buy a beer or two for the walk to some of the other locations. The surrounding banks of the river Isar are also really popular in summer, which is why i put it here.
+* [Schneider Weiße](https://schneider-weisse.de) (privately owned)
+  * Technically not a munich brewery anymore, but great wheat beer.
+  * [Weißes Bräuhaus](https://www.openstreetmap.org/node/6013457619) is their main location. Touristy but still good. Great bavarian food, including innards if that's your thing.
+  * Tip: TAP5 Hopfenweisse
+* [Tegernseer](https://www.brauhaus-tegernsee.de) (privately owned)
+  * Also not a munich brewery, but their beer is good.
+  * [Tegernseer im Tal](https://www.openstreetmap.org/node/332790673) just across the street from the Weißes Bräuhaus. Also touristy but pretty good.
+
+## Dealers/Beverage Shops
+* [Bierothek](https://www.openstreetmap.org/node/4851250425) operated by the owners of the Munich Brew Mafia brewery, great selection.
+* [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de/)) in Germering has more or less everything from Frankonia to Belgium to the US, it's amazing. Car recommended.
+* [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de/)) in Feldkirchen also has a great variety. Car recommended.
+
+## Reader's additions
+These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.
+These entries might get moved to the list proper or removed once verified.
+
+* [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de/))
+  * Dealer. Apparently great selection.
+* [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de/))
+  * Bavarian Restaurant. Great pork roast.
+  * Has 4 taps with Schönramer Hell, Tilmans Helles and Augustiner Helles (all very good Lagers) plus one changing monthly.
+* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de/))
+  * Micro-Microbrewery and Taproom.
+  * Only open on thursdays and fridays between 17:00 and 21:00.
+
+This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-04-04
