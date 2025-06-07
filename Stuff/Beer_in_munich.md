@@ -44,7 +44,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Der Pschorr](https://www.openstreetmap.org/node/358492740)
 * [Hofbräu](https://www.hofbraeu-muenchen.de) _(owned by the Free State of Bavaria)_
   * [Hofbräuhaus](https://www.openstreetmap.org/node/11829267544) (extremely touristy, but good food and decent beer nonetheless)
-* [Giesinger](https://www.giesinger-braeu.de/) _(privately owned)_
+* [Giesinger Bräu](https://www.giesinger-braeu.de/) _(privately owned)_
   * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) (Good bavarian food, classical beer styles and more modern "craft" styles.)
   * [Stehausschank Viktualienmarkt](https://www.openstreetmap.org/node/1016358208)
   * [Stehausschank Maxvorstadt](https://www.openstreetmap.org/node/1813638199)
