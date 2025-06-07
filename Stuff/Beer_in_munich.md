@@ -15,7 +15,9 @@ If you are local and want to improve this list by adding or correcting something
 
 ## Independent (Craft) Restaurants, Taprooms, Beer Halls and Bars
 * [Tap House](https://www.openstreetmap.org/node/1836234731) ([Website](https://tap-house-munich.de/de/))
-  * 40 taps, has everything from local brews through belgian fruit lambics to your typical West Coast IPA and Pastry Stout. Great owner and waiters. Great food. My favourite.
+  * 40 taps plus >100 bottles. Has everything from local brews through belgian fruit lambics to your typical West Coast IPA and Pastry Stout.
+  * Great owner and waiters. Great food.
+  * My favourite and recommendation.
 * [BrewsLi](https://www.openstreetmap.org/node/1357982129) ([Website](https://brewsli.de/))
   * Microbrewery and Taproom. Snack food.
 * [Frisches Bier](https://www.openstreetmap.org/node/5640320024) ([Website](https://www.frischesbier-muenchen.de/))
