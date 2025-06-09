@@ -100,5 +100,10 @@ These entries might get moved to the list proper or removed once verified.
 * [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de/))
   * Micro-Microbrewery and Taproom.
   * Only open on thursdays and fridays between 17:00 and 21:00.
+* [Hopfenhäcker/Forschungsbrauerei](https://www.openstreetmap.org/node/253247251) ([Website](http://www.forschungsbrauerei-braeustueberl.de/))
+  * apparently the Forschungsbrauerei as a brewery doesn't exist anymore since 2018, the beer was brewed by some contractor
+  * But Hopfenhäcker moved there in 2021 and they now brew the Forschungsbrauerei-labeled beer on site in addition to their own
+  * Found this [article](https://www.sueddeutsche.de/muenchen/muenchen-brauerei-hopfenhaecker-haidhausen-perlach-1.5419089) about it
+  * Will have to check them out
 
 This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-06
