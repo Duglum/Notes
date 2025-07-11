@@ -48,6 +48,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Hofbräuhaus](https://www.openstreetmap.org/node/11829267544) (extremely touristy, but good food and decent beer nonetheless)
 * [Giesinger Bräu](https://www.giesinger-braeu.de/) _(privately owned)_
   * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) (Good bavarian food, classical beer styles and more modern "craft" styles.)
+  * [Stehausschank Gärtnerplatz](https://www.openstreetmap.org/way/98738705)
   * [Stehausschank Viktualienmarkt](https://www.openstreetmap.org/node/1016358208)
   * [Stehausschank Maxvorstadt](https://www.openstreetmap.org/node/1813638199)
   * [Stehausschank Universität](https://www.openstreetmap.org/node/329088197)
