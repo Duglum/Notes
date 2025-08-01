@@ -17,8 +17,8 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
   * EPDM: Sehr gut für dynamische Verbindungen z.B. an Swiveln oder Mitteldruckschläuchen
   * NBR: Ist das billigste und am schnellsten verschleissende Material. Geht aber zur Not auch problemlos
 * Die Härte (in Shore ±5) muss je nach Verwendungszweck richtig gewählt werden
-  * Bei Hochdruck in der Regel 90 Shore
-  * Bei Mitteldruck eher 70-80 Shore
+  * Bei Hochdruck in der Regel 90 Shore A
+  * Bei Mitteldruck eher 70-80 Shore A
 
 ## Werkzeug
 O-Ring Werkzeug sollte aus Bronze, Messing oder anderen weichen Metallen sein um die 1./2. Stufen und Schlauchanschlüsse nicht zu beschädigen.
@@ -44,20 +44,25 @@ Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe 
 
 ## Tabelle - Größenübersicht
 Einfach anhand der eigenen Ausrüstung entscheiden welche man braucht und welche nicht.
-| Größe<br/>Imperial | Größe<br/>Metrisch | Härte<br/>Shore | Optimales<br/>Material | Verwendungszwecke                              | Notizen                                                                                              |
-| ----               | ----               | ----            | ----                   | ----                                           | ----                                                                                                 |
-| BS003              | 1,42 x 1,53        | 90              | FKM<br/>EPDM           | HD-Schlauch/Finimeter-Swivel<br/>K-Inflator    |                                                                                                      |
-| BS006              | 2,90 x 1,78        | 70-80           | FKM                    | K-Inflator                                     |                                                                                                      |
-| BS010              | 6,07 x 1,78        | 70-80           | EPDM                   | 2. Stufe MD-Schlauch                           |                                                                                                      |
-| BS610              | 6,75 x 1,78        | 70-80           | EPDM                   | Inflatorschlauch-Schnellkupplung               |                                                                                                      |
-| BS011              | 7,66 x 1,78        | 70-80           | FKM<br/>EPDM           | 1. Stufe MD-Schlauch/Stopfen<br/>K-Inflator    |                                                                                                      |
-| BS012              | 9,25 x 1,78        | 90              | FKM<br/>EPDM           | 1. Stufe HD-Schlauch/Stopfen<br/>K-Inflator    |                                                                                                      |
-| BS014              | 12,42 x 1,78       | 70-80           | EPDM<br/>FKM           | 2. Stufe Gewinde MD-Schlauchanschluss          | Geht zur Not auch ohne                                                                               |
-| -                  | 11,3 x 2,4         | 90              | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | für Poseidon und Cressi                                                                              |
-| BS111              | 10,77 x 2,62       | 90              | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | für Scubapro, Apeks, Atomic u.a.                                                                     |
-| BS112              | 12,37 x 2,62       | 90              | Polyurethan<br/>FKM    | 1. Stufe DIN<br/>K-Inflator                    | für Mares u.v.a                                                                                      |
-| -                  | 11,2 x 2,65        | 90              | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | Der eigentliche DIN-Standard.<br/>Allerdings noch nie ausprobiert.                                   |
-| BS113              | 13,9 x 2,6         | 90              | Polyurethan<br/>FKM    | 1. Stufe DIN M26x2 ("Nitrox DIN")              | nur für Nitrox-DIN innerhalb EU                                                                      |
+| Größe<br/>Imperial | Größe<br/>Metrisch | Härte<br/>Shore A | Optimales<br/>Material | Verwendungszwecke                              | Notizen                                                                                              |
+| ----               | ----               | ----              | ----                   | ----                                           | ----                                                                                                 |
+| BS003              | 1,42 x 1,53        | 90                | FKM<br/>EPDM           | HD-Schlauch/Finimeter-Swivel<br/>K-Inflator    |                                                                                                      |
+| BS006              | 2,90 x 1,78        | 70-80             | FKM                    | K-Inflator                                     |                                                                                                      |
+| BS010              | 6,07 x 1,78        | 70-80             | EPDM                   | 2. Stufe MD-Schlauch                           |                                                                                                      |
+| BS610              | 6,75 x 1,78        | 70-80             | EPDM                   | Inflatorschlauch-Schnellkupplung               |                                                                                                      |
+| BS011              | 7,66 x 1,78        | 70-80             | FKM<br/>EPDM           | 1. Stufe MD-Schlauch/Stopfen<br/>K-Inflator    |                                                                                                      |
+| BS012              | 9,25 x 1,78        | 90                | FKM<br/>EPDM           | 1. Stufe HD-Schlauch/Stopfen<br/>K-Inflator    |                                                                                                      |
+| BS014              | 12,42 x 1,78       | 70-80             | EPDM<br/>FKM           | 2. Stufe Gewinde MD-Schlauchanschluss          | Geht zur Not auch ohne                                                                               |
+| -                  | 11,3 x 2,4         | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | für Poseidon und Cressi                                                                              |
+| BS111              | 10,77 x 2,62       | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | für Scubapro, Apeks, Atomic u.a.                                                                     |
+| BS112              | 12,37 x 2,62       | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN<br/>K-Inflator                    | für Mares u.v.a                                                                                      |
+| -                  | 11,2 x 2,65        | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | Der eigentliche DIN-Standard.<br/>Allerdings noch nie ausprobiert.                                   |
+| BS113              | 13,9 x 2,6         | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN M26x2 ("Nitrox DIN")              | nur für M26 Nitrox-DIN innerhalb EU                                                                  |
+| ----               | ----               | ----              | ----                   | ----                                           | ----                                                                                                 |
+| BS611              | 8,73 x 1,78        | 70                | EPDM<br/>NBR           | RCA-Stecker Gralmarine Lampenkopf              |                                                                                                      |
+| -                  | 11 x 2             | 70                | EPDM<br/>NBR           | RCA-Stecker Gralmarine Lampenkopf              |                                                                                                      |
+| -                  | 38 x 3             | 70                | EPDM<br/>NBR           | Gralmarine Key Can                             |                                                                                                      |
+
 
 <br/>
 
