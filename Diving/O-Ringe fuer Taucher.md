@@ -58,11 +58,21 @@ Einfach anhand der eigenen Ausrüstung entscheiden welche man braucht und welche
 | BS112              | 12,37 x 2,62       | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN<br/>K-Inflator                    | für Mares u.v.a                                                                                      |
 | -                  | 11,2 x 2,65        | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN                                   | Der eigentliche DIN-Standard.<br/>Allerdings noch nie ausprobiert.                                   |
 | BS113              | 13,9 x 2,6         | 90                | Polyurethan<br/>FKM    | 1. Stufe DIN M26x2 ("Nitrox DIN")              | nur für M26 Nitrox-DIN innerhalb EU                                                                  |
+
+### Sonderkram
+| Größe<br/>Imperial | Größe<br/>Metrisch | Härte<br/>Shore A | Optimales<br/>Material | Verwendungszwecke                              | Notizen                                                                                              |
 | ----               | ----               | ----              | ----                   | ----                                           | ----                                                                                                 |
 | BS611              | 8,73 x 1,78        | 70                | EPDM<br/>NBR           | RCA-Stecker Gralmarine Lampenkopf              |                                                                                                      |
 | -                  | 11 x 2             | 70                | EPDM<br/>NBR           | RCA-Stecker Gralmarine Lampenkopf              |                                                                                                      |
 | -                  | 38 x 3             | 70                | EPDM<br/>NBR           | Gralmarine Key Can                             |                                                                                                      |
 
+### Scubapro
+| Größe<br/>Imperial u.a. | Größe<br/>Metrisch | Härte<br/>Shore A | Optimales<br/>Material | Verwendungszwecke                         | Scubapro Art.Nr.<br/>Notizen                                                                         |
+| ----                    | ----               | ----              | ----                   | ----                                      | ----                                                                                                 |
+| Parker 5-179            | 6,07 x 1,02        | 70                | EPDM<br/>NBR           | Mk25 Kolben                               | 01.050.360 - 6,0 x 1,0 mm geht als Ersatz                                                            |
+| Parker 5-578            | 1,88 x 2,59        | 90                | FKM<br/>EPDM           | Mk19                                      | 01.050.317 - 1,905 x 2,59 mm geht als Ersatz                                                         |
+
+[//]: # (Kommentar)
 
 <br/>
 
