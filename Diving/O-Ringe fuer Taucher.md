@@ -8,6 +8,7 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
 * [Scuba Gaskets](https://scubagaskets.com) - Sitzen auf Zypern, keine Kleinmengen, keine Erfahrung
 * [Diehr & Rabenstein](https://www.diehr-rabenstein.de/Dichtungstechnik/O-Ringe) - ?? Keine Erfahrung
 * [HUG Technik und Sicherheit](https://www.hug-technik.com/o-ringe.html) - ?? Keine Erfahrung
+* [Technirub](https://www.technirub.de/o-ringe-onlineshop.html) - ?? Sitzen in NL, Keine Erfahrung
 
 ## Material und Eigenschaften
 * Die Materialsorten müssen je nach Verwendungszweck richtig gewählt werden
@@ -37,6 +38,7 @@ Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe 
 * Für höhere Sauerstoffkonzentrationen: sauerstoffkompatibles Schmiermittel, z.B.
   * [Christo Lube MCG 111](https://www.divesupport.de/christo-lube-mcg-111/1800110)
   * Tribolube 71
+  * [Fuchs Gleitmo 599](https://www.fuchs.com/de/de/produkt/product/148120-GLEITMO-599/)
 
 <div style="page-break-after: always"></div>
 
