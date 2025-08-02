@@ -69,6 +69,8 @@ Einfach anhand der eigenen Ausrüstung entscheiden welche man braucht und welche
 | -                  | 11 x 2             | 70                | EPDM<br/>NBR           | RCA-Stecker Gralmarine Lampenkopf              |                                                                                                      |
 | -                  | 38 x 3             | 70                | EPDM<br/>NBR           | Gralmarine Key Can                             |                                                                                                      |
 | -                  | 14 x 2             | 70                | EPDM<br/>NBR           | OSTC Plus, 3 und alter OSTC sport              |                                                                                                      |
+| BS341              | 88,27 x 5,33       | 70                | EPDM<br/>NBR           | Waterproof Ultima (Handschuhklemme)            |                                                                                                      |
+| BS344              | 97,8 x 5,33        | 70                | EPDM<br/>NBR           | Waterproof Ultima (Anzug-Anschluss)            |                                                                                                      |
 
 ### Scubapro
 | Größe<br/>Imperial u.a. | Größe<br/>Metrisch | Härte<br/>Shore A | Optimales<br/>Material | Verwendungszwecke                         | Scubapro Art.Nr. | Notizen                                                                           |
