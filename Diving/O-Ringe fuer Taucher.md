@@ -4,8 +4,8 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
 
 ## Beschaffung
 * [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de) - Eigene positive Erfahrung
-* [O-Ring Lager](https://www.o-ring-lager.de) - Keine Erfahrung damit
-* [Scuba Gaskets](https://scubagaskets.com) - Sitzen auf Zypern, keine Kleinmengen, keine Erfahrung
+* [O-Ring Lager](https://www.o-ring-lager.de) - ?? Keine Erfahrung
+* [Scuba Gaskets](https://scubagaskets.com) - Eigene positive Erfahrung. Sitzen auf Zypern, keine Kleinmengen.
 * [Diehr & Rabenstein](https://www.diehr-rabenstein.de/Dichtungstechnik/O-Ringe) - ?? Keine Erfahrung
 * [HUG Technik und Sicherheit](https://www.hug-technik.com/o-ringe.html) - ?? Keine Erfahrung
 * [Technirub](https://www.technirub.de/o-ringe-onlineshop.html) - ?? Sitzen in NL, Keine Erfahrung
@@ -30,7 +30,7 @@ O-Ring Werkzeug sollte aus Bronze, Messing oder anderen weichen Metallen sein um
   * [Schlüsselanhänger mit Pick](<https://m.media-amazon.com/images/I/51IPXJGJuXL._AC_SL1024_.jpg>)
 
 ## Fett
-Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe brauchen in der Regel keine besondere Schmierung, es reicht die O-Ringe mit einer sehr kleinen Menge zu benetzen.
+Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe brauchen keine besondere Schmierung, es reicht die O-Ringe mit einer sehr kleinen Menge zu benetzen.
 * Für Luft oder Nitrox bis 40%: Normales lebensmittelverträgliches Silikonfett, z.B.
   * [Super Lube 93003](https://www.amazon.de/dp/B07CFS31M8)
   * [Super Lube 21014](https://www.amazon.de/dp/B007UU9JMS)
