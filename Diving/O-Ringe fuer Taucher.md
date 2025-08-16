@@ -4,8 +4,8 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
 
 ## Beschaffung
 * [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de) - Eigene positive Erfahrung
-* [O-Ring Lager](https://www.o-ring-lager.de) - ?? Keine Erfahrung
 * [Scuba Gaskets](https://scubagaskets.com) - Eigene positive Erfahrung. Sitzen auf Zypern, keine Kleinmengen.
+* [O-Ring Lager](https://www.o-ring-lager.de) - ?? Keine Erfahrung
 * [Diehr & Rabenstein](https://www.diehr-rabenstein.de/Dichtungstechnik/O-Ringe) - ?? Keine Erfahrung
 * [HUG Technik und Sicherheit](https://www.hug-technik.com/o-ringe.html) - ?? Keine Erfahrung
 * [Technirub](https://www.technirub.de/o-ringe-onlineshop.html) - ?? Sitzen in NL, Keine Erfahrung
@@ -16,12 +16,12 @@ Eine kurze und kompakte Übersicht über die gebräuchlichsten O-Ringe die ein T
   * FKM/FPM/Viton: Ebenfalls sehr gut für statische Verbindungen, sauerstoffbeständig
   * EPDM: Sehr gut für dynamische Verbindungen z.B. an Swiveln oder Mitteldruckschläuchen
   * NBR: Ist das billigste und am schnellsten verschleissende Material. Geht aber zur Not auch problemlos
-* Die Härte (in Shore ±5) muss je nach Verwendungszweck richtig gewählt werden
+* Die Härte (in Shore A ±5) muss je nach Verwendungszweck richtig gewählt werden
   * Bei Hochdruck in der Regel 90 Shore A
   * Bei Mitteldruck eher 70-80 Shore A
 
 ## Werkzeug
-O-Ring Werkzeug sollte aus Bronze, Messing oder anderen weichen Metallen sein um die 1./2. Stufen und Schlauchanschlüsse nicht zu beschädigen.
+O-Ring Werkzeug sollte aus Bronze, Messing oder Kunststoff sein um die 1./2. Stufen und Schlauchanschlüsse nicht zu beschädigen.
 * Für Daheim
   * [XS Scuba O-Ring Pick Set TL111](https://www.xsscuba.com/tools/o-ring-pick-set)
   * [Brass O-Ring Pick Set](https://scuba-clinic-tools.com/collections/general-scuba/products/brass-o-ring-pick-set-2-pcs)
