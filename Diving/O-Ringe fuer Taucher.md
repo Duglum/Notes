@@ -33,9 +33,9 @@ O-Ring Werkzeug sollte aus Bronze, Messing oder Kunststoff sein um die 1./2. Stu
 ## Fett
 Dynamische O-Ringe sollten immer großzügig gefettet werden. Statische O-Ringe brauchen keine besondere Schmierung, es reicht die O-Ringe mit einer sehr kleinen Menge zu benetzen.
 * Für Luft oder Nitrox bis 40%: Normales lebensmittelverträgliches Silikonfett, z.B.
-  * [Super Lube 93003](https://www.amazon.de/dp/B07CFS31M8)
-  * [Super Lube 21014](https://www.amazon.de/dp/B007UU9JMS)
-  * Silikonfett für Kaffeevollautomaten
+  * [Super Lube 93003 O-Ring Silikonfett](https://www.amazon.de/dp/B07CFS31M8)
+  * [Parker SLUBE 884-.50 Super O-lube](https://www.amazon.de/dp/B0DJXVDF6D)
+  * anderes lebensmittelechtes Silikonfett, z.B. für Kaffee-Vollautomaten
 * Für höhere Sauerstoffkonzentrationen: sauerstoffkompatibles Schmiermittel, z.B.
   * [Christo Lube MCG 111](https://www.divesupport.de/christo-lube-mcg-111/1800110)
   * Tribolube 71
