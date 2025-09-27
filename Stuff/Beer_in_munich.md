@@ -54,19 +54,19 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Stehausschank Sendling](https://www.openstreetmap.org/node/2015822730)
   * [Stehausschank Westend](https://www.openstreetmap.org/node/337484404)
 * [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
-  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not open yet as of 2025-08**)
+  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not yet open as of 2025-09**)
   * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
   * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu then got taken over by Löwenbräu in 1921.
 * [Löwenbräu](https://loewenbraeu.de) _(owned by global corporation AB InBev)_
   * [Löwenbräukeller](https://www.openstreetmap.org/way/98064749) should be their main location, never went there though.
 * [Paulaner](https://www.paulaner.de) _(owned by the global corporations Schörghuber Group and Heineken)_
   * [Paulaner Bräuhaus](https://www.openstreetmap.org/node/307528347)
-  * [Paulaner am Nockherberg](https://www.openstreetmap.org/node/262128245). This is where the Starkbierfest happens during catholic lent.
+  * [Paulaner am Nockherberg](https://www.openstreetmap.org/node/262128245). This is where the most well known Starkbierfest happens during catholic lent.
 * [Spaten/Franziskaner](https://spatenbraeu.de) _(owned by global corporation AB InBev)_
   * [Spatenhaus an der Oper](https://www.openstreetmap.org/node/863560075)
 
 ## Other places or breweries worth visiting/drinking
-* [Bierkiste](https://www.openstreetmap.org/node/8467824847)
+* [Bierkiste](https://www.openstreetmap.org/node/8467824847) (**will close down on 2025-10-31**)
   * technically a dealer/shop, but they have some seats available. Very nice selection.
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
   * As the name suggests it's a Kiosk, but they have an impressive selection of international beers.
