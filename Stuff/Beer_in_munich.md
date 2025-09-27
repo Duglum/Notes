@@ -69,7 +69,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Bierkiste](https://www.openstreetmap.org/node/8467824847) (**will close down on 2025-10-31**)
   * technically a dealer/shop, but they have some seats available. Very nice selection.
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
-  * As the name suggests it's a Kiosk, but they have an impressive selection of international beers.
+  * As the name suggests it's a Kiosk, but they have an impressive selection of international beers. Snack food.
   * While technically purely a dealer it's in a perfect spot to start the evening and buy a beer or two for the walk to some of the other locations. The surrounding banks of the river Isar are also really popular in summer, which is why i put it here.
 * [Schneider Weisse](https://schneider-weisse.de) (privately owned)
   * Technically not a munich brewery anymore, but great wheat beer.
