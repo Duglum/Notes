@@ -1,10 +1,10 @@
 Reddit Beer Munich copy&paste list
 ===
 
-I created this list to have something i can easily copy&paste since people constantly ask about beer in this sub.  
-I left out beer gardens on purpose, there are just too many of them, almost all are decent and none of them offer anything special in terms of beer.
+I created this list to have something i can easily copy&paste since people constantly ask about beer in the munich subreddit.  
+I left out beer gardens on purpose; there are just too many of them, almost all are decent and none of them offer anything special in terms of beer.
 
-If you are local and want to improve this list by adding or correcting something please just answer to this post.
+If you are local and want to improve this list by adding or correcting something please just contact me.
 
 ## TOC
  1. Independent Craft Restaurants, Beer Halls and Bars
