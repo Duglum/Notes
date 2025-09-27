@@ -1,7 +1,7 @@
 Reddit Beer Munich copy&paste list
 ===
 
-I created this list to have something i can easily copy&paste since people constantly ask about beer in this sub.
+I created this list to have something i can easily copy&paste since people constantly ask about beer in this sub.  
 I left out beer gardens on purpose, there are just too many of them, almost all are decent and none of them offer anything special in terms of beer.
 
 If you are local and want to improve this list by adding or correcting something please just answer to this post.
@@ -26,8 +26,6 @@ If you are local and want to improve this list by adding or correcting something
   * see below in the munich breweries section
 * [Higgins Ale Works](https://www.openstreetmap.org/node/9844332568) ([Website](https://higginsaleworks.com/))
   * Micro-Microbrewery and Taproom. Very nice owners. No food.
-* [HopDog](https://www.openstreetmap.org/node/7589946337) ([Website](https://hopdog.eu/))
-  * Specializes in frankonian beer, also usually has some craft styles on tap. Hot Dogs.
 
 ## (Bigger or 'real') Munich Breweries and their Restaurants/Beer Halls
 _"Münchner Bier"_ is a protected term under [EU PGI law](https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union), and two of the criterias are that the brewery has to be within the city limits and that they get their water from a deep well within the city limits. The breweries in this list are the only ones fulfilling all criterias.
@@ -83,6 +81,10 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Airbräu](https://www.munich-airport.de/airbraeu/de)
   * Located at the Airport, so not a munich brewery. But since most people using this list will probably arrive via the Airport i decided to add it.
   * Very fairly priced decent beer and food. They have locations in both Terminals plus a big beer garden in the open area between the terminals (in summer).
+* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de/))
+  * Micro-Microbrewery and Taproom.
+  * Decent beer, nothing special though in my opinion.
+  * Only open on thursdays and fridays between 17:00 and 21:00.
 
 ## Dealers/Beverage Shops
 * [Bierothek](https://www.openstreetmap.org/node/4851250425) operated by the owners of the Munich Brew Mafia brewery, great selection.
@@ -90,7 +92,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de/)) in Feldkirchen also has a great variety. Car recommended.
 
 ## Reader's additions
-These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.
+These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.  
 These entries might get moved to the list proper or removed once verified.
 
 * [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de/))
@@ -98,13 +100,10 @@ These entries might get moved to the list proper or removed once verified.
 * [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de/))
   * Bavarian Restaurant. Great pork roast.
   * Has 4 taps with Schönramer Hell, Tilmans Helles and Augustiner Helles (all very good Lagers) plus one changing monthly.
-* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de/))
-  * Micro-Microbrewery and Taproom.
-  * Only open on thursdays and fridays between 17:00 and 21:00.
 * [Hopfenhäcker/Forschungsbrauerei](https://www.openstreetmap.org/node/253247251) ([Website](http://www.forschungsbrauerei-braeustueberl.de/))
   * apparently the Forschungsbrauerei as a brewery doesn't exist anymore since 2018, the beer was brewed by some contractor
   * But Hopfenhäcker moved there in 2021 and they now brew the Forschungsbrauerei-labeled beer on site in addition to their own
   * Found this [article](https://www.sueddeutsche.de/muenchen/muenchen-brauerei-hopfenhaecker-haidhausen-perlach-1.5419089) about it
   * Will have to check them out
 
-This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-08
+This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-09
