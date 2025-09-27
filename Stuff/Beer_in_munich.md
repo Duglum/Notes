@@ -1,4 +1,4 @@
-Reddit Beer Munich copy&paste list
+Reddit Munich Beer list
 ===
 
 I created this list to have something i can easily copy&paste since people constantly ask about beer in the munich subreddit.  
