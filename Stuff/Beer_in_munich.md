@@ -71,9 +71,10 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
   * As the name suggests it's a Kiosk, but they have an impressive selection of international beers.
   * While technically purely a dealer it's in a perfect spot to start the evening and buy a beer or two for the walk to some of the other locations. The surrounding banks of the river Isar are also really popular in summer, which is why i put it here.
-* [Schneider Weiße](https://schneider-weisse.de) (privately owned)
+* [Schneider Weisse](https://schneider-weisse.de) (privately owned)
   * Technically not a munich brewery anymore, but great wheat beer.
-  * [Weißes Bräuhaus](https://www.openstreetmap.org/node/6013457619) is their main location. Touristy but still good. Great bavarian food, including innards if that's your thing.
+  * [Weisses Bräuhaus im Tal](https://www.openstreetmap.org/node/6013457619) is their main location. Touristy but still good. Great bavarian food, including innards if that's your thing.
+  * [Schneider Bräuhaus Berg am Laim](https://www.openstreetmap.org/node/281511881)
   * Tip: TAP5 Hopfenweisse
 * [Tegernseer](https://www.brauhaus-tegernsee.de) (privately owned)
   * Also not a munich brewery, but their beer is good.
