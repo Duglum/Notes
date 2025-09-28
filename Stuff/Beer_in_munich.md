@@ -22,7 +22,7 @@ If you are local and want to improve this list by adding or correcting something
 * [BrewsLi](https://www.openstreetmap.org/node/1357982129) ([Website](https://brewsli.de/))
   * Microbrewery and Taproom/Pub
   * 12(?) taps
-  * Snack food.
+  * Snack food
 * [Frisches Bier](https://www.openstreetmap.org/node/5640320024) ([Website](https://www.frischesbier-muenchen.de/))
   * owned by Tilmans Brewery, but they also carry other beers
   * 14 taps plus cans/bottles
