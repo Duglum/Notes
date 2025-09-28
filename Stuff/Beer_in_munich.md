@@ -16,16 +16,24 @@ If you are local and want to improve this list by adding or correcting something
 ## Independent (Craft) Restaurants, Taprooms, Beer Halls and Bars
 * [Tap House](https://www.openstreetmap.org/node/1836234731) ([Website](https://tap-house-munich.de/de/))
   * 40 taps plus >100 bottles. Has everything from local brews through belgian fruit lambics to your typical West Coast IPA and Pastry Stout.
-  * Great owner and waiters. Great food.
-  * My favourite and recommendation.
+  * Great owner and waiters
+  * Great food (Reuben Sandwich!)
+  * My favourite and recommendation
 * [BrewsLi](https://www.openstreetmap.org/node/1357982129) ([Website](https://brewsli.de/))
-  * Microbrewery and Taproom. Snack food.
+  * Microbrewery and Taproom/Pub
+  * 12(?) taps
+  * Snack food.
 * [Frisches Bier](https://www.openstreetmap.org/node/5640320024) ([Website](https://www.frischesbier-muenchen.de/))
-  * belongs to Tilmans Brewery, but they also carry other beers. Snack food.
+  * owned by Tilmans Brewery, but they also carry other beers
+  * 14 taps plus cans/bottles
+  * Snack food
 * [Giesinger Bräustüberl](https://www.openstreetmap.org/node/3483635411) ([Website](https://www.giesinger-braeu.de/))
   * see below in the munich breweries section
 * [Higgins Ale Works](https://www.openstreetmap.org/node/9844332568) ([Website](https://higginsaleworks.com/))
-  * Micro-Microbrewery and Taproom. Very nice owners. No food.
+  * Micro-Microbrewery and Taproom
+  * 6 taps plus usually some cans
+  * Very nice owners
+  * No food
 
 ## (Bigger or 'real') Munich Breweries and their Restaurants/Beer Halls
 _"Münchner Bier"_ is a protected term under [EU PGI law](https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union), and two of the criterias are that the brewery has to be within the city limits and that they get their water from a deep well within the city limits. The breweries in this list are the only ones fulfilling all criterias.
@@ -82,29 +90,32 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Airbräu](https://www.munich-airport.de/airbraeu/de)
   * Located at the Airport, so not a munich brewery. But since most people using this list will probably arrive via the Airport i decided to add it.
   * Very fairly priced decent beer and food. They have locations in both Terminals plus a big beer garden in the open area between the terminals (in summer).
-* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de/))
+* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de))
   * Micro-Microbrewery and Taproom.
   * Decent beer, nothing special though in my opinion.
   * Only open on thursdays and fridays between 17:00 and 21:00.
 
 ## Dealers/Beverage Shops
 * [Bierothek](https://www.openstreetmap.org/node/4851250425) operated by the owners of the Munich Brew Mafia brewery, great selection.
-* [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de/)) in Germering has more or less everything from Frankonia to Belgium to the US, it's amazing. Car recommended.
-* [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de/)) in Feldkirchen also has a great variety. Car recommended.
+* [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de)) in Germering has more or less everything from Frankonia to Belgium to the US, it's amazing. Car recommended.
+* [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de)) in Feldkirchen also has a great variety. Car recommended.
 
 ## Reader's additions
 These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.  
 These entries might get moved to the list proper or removed once verified.
 
-* [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de/))
+* [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de))
   * Dealer. Apparently great selection.
-* [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de/))
+* [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de))
   * Bavarian Restaurant. Great pork roast.
   * Has 4 taps with Schönramer Hell, Tilmans Helles and Augustiner Helles (all very good Lagers) plus one changing monthly.
-* [Hopfenhäcker/Forschungsbrauerei](https://www.openstreetmap.org/node/253247251) ([Website](http://www.forschungsbrauerei-braeustueberl.de/))
+* [Hopfenhäcker/Forschungsbrauerei](https://www.openstreetmap.org/node/253247251) ([Website](http://www.forschungsbrauerei-braeustueberl.de))
   * apparently the Forschungsbrauerei as a brewery doesn't exist anymore since 2018, the beer was brewed by some contractor
   * But Hopfenhäcker moved there in 2021 and they now brew the Forschungsbrauerei-labeled beer on site in addition to their own
   * Found this [article](https://www.sueddeutsche.de/muenchen/muenchen-brauerei-hopfenhaecker-haidhausen-perlach-1.5419089) about it
   * Will have to check them out
+* [Ambar Bistro](https://www.openstreetmap.org/node/3398575537) ([Website](https://www.ambar-bistro.de))
+  * Italian Restaurant(?)
+  * Tilmans on tap plus some cans/bottles?
 
 This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-09
