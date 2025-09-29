@@ -95,7 +95,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Tegernseer im Tal](https://www.openstreetmap.org/node/332790673) just across the street from the Weisses Bräuhaus. Also touristy but pretty good.
 * [Airbräu](https://www.munich-airport.de/airbraeu/de)
   * Located at the Airport, so not a munich brewery. But since most people using this list will probably arrive via the Airport i decided to add it.
-  * Very fairly priced decent beer and food. They have locations in both Terminals plus a big beer garden in the open area between the terminals (in summer).
+  * Very fairly priced decent beer and food. They have locations in both terminals plus a big beer garden in the open area between the terminals (in summer).
 
 ## Dealers/Beverage Shops
 * [Bierothek](https://www.openstreetmap.org/node/4851250425) ([Website](https://bierothek.de/stores/muenchen))
