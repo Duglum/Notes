@@ -98,9 +98,15 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * Very fairly priced decent beer and food. They have locations in both Terminals plus a big beer garden in the open area between the terminals (in summer).
 
 ## Dealers/Beverage Shops
-* [Bierothek](https://www.openstreetmap.org/node/4851250425) ([Website](https://bierothek.de/stores/muenchen))operated by the owners of the Munich Brew Mafia brewery, great selection. They also offer tastings, seminars and beer-focused games/events.
-* [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de)) in Germering has more or less everything from Frankonia to Belgium to the US, it's amazing. Car recommended.
-* [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de)) in Feldkirchen also has a great variety. Car recommended.
+* [Bierothek](https://www.openstreetmap.org/node/4851250425) ([Website](https://bierothek.de/stores/muenchen))
+  * Operated by the owners of the Munich Brew Mafia brewery, great selection
+  * They also offer tastings, seminars and beer-focused games/events
+* [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de)) in Germering
+  * Has more or less everything from Frankonia to Belgium to the US, it's amazing.
+  * Car recommended
+* [Getränke Haußmann](https://www.openstreetmap.org/node/3493308846) ([Website](https://www.getraenke-haussmann.de)) in Feldkirchen
+  * Great selection
+  * Car recommended
 
 ## Reader's additions
 These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.  
