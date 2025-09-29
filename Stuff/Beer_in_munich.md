@@ -35,6 +35,10 @@ But please keep in mind that this list focuses on places where the beer itself i
   * 6 taps plus usually some cans
   * Very nice owners
   * No food
+* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de))
+  * Micro-Microbrewery and Taproom.
+  * Decent beer, nothing special though in my opinion.
+  * Only open on thursdays and fridays between 17:00 and 21:00.
 
 ## (Bigger or 'real') Munich Breweries and their Restaurants/Beer Halls
 _"Münchner Bier"_ is a protected term under [EU PGI law](https://en.wikipedia.org/wiki/Geographical_indications_and_traditional_specialities_in_the_European_Union), and two of the criterias are that the brewery has to be within the city limits and that they get their water from a deep well within the city limits. The breweries in this list are the only ones fulfilling all criterias.
@@ -78,7 +82,8 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 * [Bierkiste](https://www.openstreetmap.org/node/8467824847) (**will close down on 2025-10-31**)
   * technically a dealer/shop, but they have some seats available. Very nice selection.
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
-  * As the name suggests it's a Kiosk, but they have an impressive selection of international beers. Snack food.
+  * As the name suggests it's a Kiosk, but they have an impressive selection of international beers
+  * Snack food
   * While technically purely a dealer it's in a perfect spot to start the evening and buy a beer or two for the walk to some of the other locations. The surrounding banks of the river Isar are also really popular in summer, which is why i put it here.
 * [Schneider Weisse](https://schneider-weisse.de) (privately owned)
   * Technically not a munich brewery anymore, but great wheat beer.
@@ -87,14 +92,10 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * Tip: TAP5 Hopfenweisse
 * [Tegernseer](https://www.brauhaus-tegernsee.de) (privately owned)
   * Also not a munich brewery, but their beer is good.
-  * [Tegernseer im Tal](https://www.openstreetmap.org/node/332790673) just across the street from the Weißes Bräuhaus. Also touristy but pretty good.
+  * [Tegernseer im Tal](https://www.openstreetmap.org/node/332790673) just across the street from the Weisses Bräuhaus. Also touristy but pretty good.
 * [Airbräu](https://www.munich-airport.de/airbraeu/de)
   * Located at the Airport, so not a munich brewery. But since most people using this list will probably arrive via the Airport i decided to add it.
   * Very fairly priced decent beer and food. They have locations in both Terminals plus a big beer garden in the open area between the terminals (in summer).
-* [Werksviertel Bräu](https://www.openstreetmap.org/node/9964774236) ([Website](https://werksviertelbräu.de))
-  * Micro-Microbrewery and Taproom.
-  * Decent beer, nothing special though in my opinion.
-  * Only open on thursdays and fridays between 17:00 and 21:00.
 
 ## Dealers/Beverage Shops
 * [Bierothek](https://www.openstreetmap.org/node/4851250425) operated by the owners of the Munich Brew Mafia brewery, great selection.
@@ -105,16 +106,16 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
 These are additions to the list suggested to me by other locals on reddit. No personal experience yet, so i can't vouch for them.  
 These entries might get moved to the list proper or removed once verified.
 
-* [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de))
-  * Dealer. Apparently great selection.
-* [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de))
-  * Bavarian Restaurant. Great pork roast.
-  * Has 4 taps with Schönramer Hell, Tilmans Helles and Augustiner Helles (all very good Lagers) plus one changing monthly.
 * [Hopfenhäcker/Forschungsbrauerei](https://www.openstreetmap.org/node/253247251) ([Website](http://www.forschungsbrauerei-braeustueberl.de))
   * apparently the Forschungsbrauerei as a brewery doesn't exist anymore since 2018, the beer was brewed by some contractor
   * But Hopfenhäcker moved there in 2021 and they now brew the Forschungsbrauerei-labeled beer on site in addition to their own
   * Found this [article](https://www.sueddeutsche.de/muenchen/muenchen-brauerei-hopfenhaecker-haidhausen-perlach-1.5419089) about it
   * Will have to check them out
+* [Getränke Schwabing Schwarz](https://www.openstreetmap.org/node/11277513196) ([Website](https://www.getraenke-schwabing.de))
+  * Dealer. Apparently great selection.
+* [Wirtshaus Eder](https://www.openstreetmap.org/node/367787215) ([Website](https://www.ederwirt.de))
+  * Bavarian Restaurant. Great pork roast.
+  * Has 4 taps with Schönramer Hell, Tilmans Helles and Augustiner Helles (all very good Lagers) plus one changing monthly.
 * [Ambar Bistro](https://www.openstreetmap.org/node/3398575537) ([Website](https://www.ambar-bistro.de))
   * Italian Restaurant(?)
   * Tilmans on tap plus some cans/bottles?
