@@ -126,4 +126,5 @@ These entries might get moved to the list proper or removed once verified.
   * Italian Restaurant(?)
   * Tilmans on tap plus some cans/bottles?
 
+---
 This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-09
