@@ -79,8 +79,6 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Spatenhaus an der Oper](https://www.openstreetmap.org/node/863560075)
 
 ## Other places or breweries worth visiting/drinking
-* [Bierkiste](https://www.openstreetmap.org/node/8467824847) (**will close down on 2025-10-31**)
-  * technically a dealer/shop, but they have some seats available. Very nice selection.
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
   * As the name suggests it's a Kiosk, but they have an impressive selection of international beers
   * Snack food
@@ -127,4 +125,4 @@ These entries might get moved to the list proper or removed once verified.
   * Tilmans on tap plus some cans/bottles?
 
 ---
-This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-09
+This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-12
