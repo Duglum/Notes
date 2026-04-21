@@ -66,8 +66,9 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Stehausschank Sendlinger Tor](https://www.openstreetmap.org/node/700042712)
   * [Stehausschank Sendling](https://www.openstreetmap.org/node/2015822730)
   * [Stehausschank Westend](https://www.openstreetmap.org/node/337484404)
+  * [Stehausschank Haar](https://www.openstreetmap.org/node/3336677675)
 * [Münchner Kindl](https://www.muenchnerkindlbrauerei.de) _(privately owned)_
-  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not yet open as of 2025-09**)
+  * [Brewery (and Tap Room?)](https://www.openstreetmap.org/way/1285237072) (**Still under construction, not yet open as of 2026-04**)
   * Founded in 2020 and aiming to be the 8th _real_ munich brewery.
   * The old brewery of the same name was founded in 1880 and was taken over by Unionsbräu in 1905. Unionsbräu then got taken over by Löwenbräu in 1921. Dietrich Sailer, owner of the [Hofbräuhaus Traunstein](https://www.hb-ts.de), acquired the brand rights in 2015.
 * [Löwenbräu](https://loewenbraeu.de) _(owned by global corporation AB InBev)_
@@ -125,4 +126,4 @@ These entries might get moved to the list proper or removed once verified.
   * Tilmans on tap plus some cans/bottles?
 
 ---
-This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2025-12
+This text is licensed under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) aka public domain. Do with it whatever you want. Last update: 2026-04
