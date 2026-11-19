@@ -80,7 +80,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * [Spatenhaus an der Oper](https://www.openstreetmap.org/node/863560075)
 
 ## Other places or breweries worth visiting/drinking
-* [Bierkiste](https://www.openstreetmap.org/node/1327712943) (**will close down on 2025-10-31**)
+* [Bierkiste](https://www.openstreetmap.org/node/1327712943)
   * technically a dealer/shop, but they have some seats available. Very nice selection.
 * [Kiosk Reichenbachbrücke](https://www.openstreetmap.org/way/108574652)
   * As the name suggests it's a Kiosk, but they have an impressive selection of international beers
@@ -99,7 +99,7 @@ Beer from the big six can be had everywhere in town, most restaurants and pubs h
   * Very fairly priced decent beer and food. They have locations in both terminals plus a big beer garden in the open area between the terminals (in summer).
 
 ## Dealers/Beverage Shops
-* [~Bierothek~](https://www.openstreetmap.org/node/4851250425) ([Website](https://bierothek.de/stores/muenchen))
+* [~Bierothek~](https://www.openstreetmap.org/node/4851250425) ([Website](https://bierothek.de/stores/muenchen)) (**Closed? Not sure yet.**)
   * Operated by the owners of the Munich Brew Mafia brewery, great selection
   * They also offer tastings, seminars and beer-focused games/events
 * [Getränke Liebick](https://www.openstreetmap.org/way/78282493) ([Website](https://www.landbierzentrale.de)) in Germering
